@@ -5,15 +5,15 @@ A simple Python utility for performing descriptive statistical analysis on a dat
 ## Features
 
 - Computes the following statistics for a list of numbers:
-  - ✅ Total sum
-  - ✅ Count
-  - ✅ Maximum and minimum values
-  - ✅ Range
-  - ✅ Mean (average)
-  - ✅ Median
-  - ✅ Mode
-  - ✅ Variance
-  - ✅ Standard deviation
+  - Total sum
+  - Count
+  - Maximum and minimum values
+  - Range
+  - Mean (average)
+  - Median
+  - Mode
+  - Variance
+  - Standard deviation
 
 - Uses common data science libraries:
   - NumPy
